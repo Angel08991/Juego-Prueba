@@ -1,0 +1,6 @@
+{
+  "name": "Mazmorra 3D",
+  "description": "Juego RPG 3D de exploración de mazmorras en primera persona con combates en tiempo real, monstruos, hechizos, cofres y niveles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
